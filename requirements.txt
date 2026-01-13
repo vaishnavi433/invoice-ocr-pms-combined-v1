@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+requests
+rapidfuzz
+pillow
+google-auth
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+tqdm
+beautifulsoup4
